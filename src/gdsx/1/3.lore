@@ -1,0 +1,2 @@
+$$\int \frac{x}{a x + b} \ \text{d} x = \frac{1}{a ^2} (a x + b - b \ln |a x + b|) + C$$
+---
