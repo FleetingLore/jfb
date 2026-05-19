@@ -1,0 +1,2 @@
+$$\int (a x + b) ^\mu \ \text{d} x = \frac{1}{a (\mu + 1)} (a x + b)^{\mu + 1} + C \ (\mu \ne - 1)$$
+---
