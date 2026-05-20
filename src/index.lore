@@ -11,3 +11,39 @@
 
 # (二) 含有 $\displaystyle \int \sqrt{a x + b}$ 的积分
 + $\displaystyle \int \sqrt{a x + b} \ \text{d} x$ == 10
++ $\displaystyle \int x \sqrt{a x + b} \ \text{d} x$ == 11
++ $\displaystyle \int x ^2 \sqrt{a x + b} \ \text{d} x$ == 12
++ $\displaystyle \int \frac{x}{\sqrt{a x + b}}\ \text{d} x$ == 13
++ $\displaystyle \int \frac{x ^2}{\sqrt{a x + b}} \ \text{d} x$ == 14
++ $\displaystyle \int \frac{\text{d} x}{x \sqrt{a x + b}}$ == 15
++ $\displaystyle \int \frac{\text{d} x}{x ^2 \sqrt{a x + b}}$ == 16
++ $\displaystyle \int \frac{\sqrt{a x + b}}{x} \text{d} x$ == 17
++ $\displaystyle \int \frac{\sqrt{a x + b}}{x ^2} \text{d} x$ == 18
+
+## (三) 含有 $x ^2 \pm a ^2$ 的积分
+
+## (四) 含有 $a x ^2 + b \ (a > 0)$ 的积分
+
+## (五) 含有 $a x ^2 + b x + c \ (a > 0)$ 的积分
+
+## (六) 含有 $\sqrt{x ^2 + a ^2} \ (a > 0)$ 的积分
+
+## (七) 含有 $\sqrt{x ^2 - a ^2} \ (a > 0)$ 的积分
+
+## (八) 含有 $\sqrt{a ^2 - x ^2} \ (a > 0)$ 的积分
+
+## (九) 含有 $\sqrt{\pm a x ^2 + b x + c} \ (a > 0)$ 的积分
+
+## (十) 含有 $\sqrt{\pm \frac{x - a}{x - b}}$ 或 $\sqrt{(x - a) (b - x)}$ 的积分
+
+## (十一) 含有三角函数的积分
+
+## (十二) 含有反三角函数的积分 (其中 $a > 0$)
+
+## (十三) 含有指数函数的积分
+
+## (十四) 含有对数函数的积分
+
+## (十五) 含有双曲函数的积分
+
+## (十六) 定积分
