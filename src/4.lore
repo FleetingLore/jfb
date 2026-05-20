@@ -1,2 +1,4 @@
 $$\int \frac{x ^2}{a x + b} \ \text{d} x = \frac{1}{a ^3} \left(\frac{1}{2} (a x + b) ^2 - 2 b (a x + b) + b ^2 \ln |a x + b| \right) + C$$
 ---
+
++ Solution | https://fleetinglore.github.io/zt/2026/5/20/9
