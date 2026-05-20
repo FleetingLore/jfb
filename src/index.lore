@@ -1,24 +1,24 @@
 # (一) 含有 $\displaystyle a x + b$ 的积分
-+ $\displaystyle \int \frac{\text{d} x}{a x + b}$ == 1
-+ $\displaystyle \int (a x + b) ^\mu \ \text{d} x$ == 2
-+ $\displaystyle \int \frac{x}{a x + b} \ \text{d} x$ == 3
-+ $\displaystyle \int \frac{x ^2}{a x + b} \ \text{d} x$ == 4
-+ $\displaystyle \int \frac{\text{d} x}{x (a x + b)}$ == 5
-+ $\displaystyle \int \frac{\text{d} x}{x ^2 (a x + b)}$ == 6
-+ $\displaystyle \int \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
-+ $\displaystyle \int \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
-+ $\displaystyle \int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
++ 1. $\displaystyle \int \frac{\text{d} x}{a x + b}$ == 1
++ 2. $\displaystyle \int (a x + b) ^\mu \ \text{d} x$ == 2
++ 3. $\displaystyle \int \frac{x}{a x + b} \ \text{d} x$ == 3
++ 4. $\displaystyle \int \frac{x ^2}{a x + b} \ \text{d} x$ == 4
++ 5. $\displaystyle \int \frac{\text{d} x}{x (a x + b)}$ == 5
++ 6. $\displaystyle \int \frac{\text{d} x}{x ^2 (a x + b)}$ == 6
++ 7. $\displaystyle \int \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
++ 8. $\displaystyle \int \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
++ 9. $\displaystyle \int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
 
 # (二) 含有 $\displaystyle \int \sqrt{a x + b}$ 的积分
-+ $\displaystyle \int \sqrt{a x + b} \ \text{d} x$ == 10
-+ $\displaystyle \int x \sqrt{a x + b} \ \text{d} x$ == 11
-+ $\displaystyle \int x ^2 \sqrt{a x + b} \ \text{d} x$ == 12
-+ $\displaystyle \int \frac{x}{\sqrt{a x + b}}\ \text{d} x$ == 13
-+ $\displaystyle \int \frac{x ^2}{\sqrt{a x + b}} \ \text{d} x$ == 14
-+ $\displaystyle \int \frac{\text{d} x}{x \sqrt{a x + b}}$ == 15
-+ $\displaystyle \int \frac{\text{d} x}{x ^2 \sqrt{a x + b}}$ == 16
-+ $\displaystyle \int \frac{\sqrt{a x + b}}{x} \text{d} x$ == 17
-+ $\displaystyle \int \frac{\sqrt{a x + b}}{x ^2} \text{d} x$ == 18
++ 10. $\displaystyle \int \sqrt{a x + b} \ \text{d} x$ == 10
++ 11. $\displaystyle \int x \sqrt{a x + b} \ \text{d} x$ == 11
++ 12. $\displaystyle \int x ^2 \sqrt{a x + b} \ \text{d} x$ == 12
++ 13. $\displaystyle \int \frac{x}{\sqrt{a x + b}}\ \text{d} x$ == 13
++ 14. $\displaystyle \int \frac{x ^2}{\sqrt{a x + b}} \ \text{d} x$ == 14
++ 15. $\displaystyle \int \frac{\text{d} x}{x \sqrt{a x + b}}$ == 15
++ 16. $\displaystyle \int \frac{\text{d} x}{x ^2 \sqrt{a x + b}}$ == 16
++ 17. $\displaystyle \int \frac{\sqrt{a x + b}}{x} \text{d} x$ == 17
++ 18. $\displaystyle \int \frac{\sqrt{a x + b}}{x ^2} \text{d} x$ == 18
 
 ## (三) 含有 $x ^2 \pm a ^2$ 的积分
 
