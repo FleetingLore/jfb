@@ -1,4 +1,4 @@
-# (一) 含有 $displaystyle a x + b$ 的积分
+# (一) 含有 $\displaystyle a x + b$ 的积分
 + $\displaystyle \int \frac{\text{d} x}{a x + b}$ == 1
 + $\displaystyle \int (a x + b) ^\mu \ \text{d} x$ == 2
 + $\displaystyle \int \frac{x}{a x + b} \ \text{d} x$ == 3
