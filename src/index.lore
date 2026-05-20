@@ -1,4 +1,4 @@
-# (一) 含有 $a x + b$ 的积分
+# (一) 含有 $displaystyle a x + b$ 的积分
 + $\displaystyle \int \frac{\text{d} x}{a x + b}$ == 1
 + $\displaystyle \int (a x + b) ^\mu \ \text{d} x$ == 2
 + $\displaystyle \int \frac{x}{a x + b} \ \text{d} x$ == 3
@@ -8,3 +8,6 @@
 + $\displaystyle \int \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
 + $\displaystyle \int \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
 + $\displaystyle \int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
+
+# (二) 含有 $\displaystyle \int \sqrt{a x + b}$ 的积分
++ $\displaystyle \int \sqrt{a x + b} \ \text{d} x$ == 10
