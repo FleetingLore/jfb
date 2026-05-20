@@ -1,0 +1,2 @@
+$$\frac{x ^2}{(a x + b) ^2} \ \text{d} x = \frac{1}{a ^3} \left(a x + b - 2 b \ln |a x + b| - \frac{b a ^2}{a x + b}\right) + C$$
+---
