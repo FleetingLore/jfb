@@ -1,4 +1,4 @@
-$$\int \frac{\text{d} x}{x (a x + b)} = - \frac{1}{b} \ln |\frac{a x + b}{x}| + C$$
+$$- \frac{1}{b} \ln |\frac{a x + b}{x}| + C$$
 ---
 
 + Solution | https://fleetinglore.github.io/zt/2026/5/20/10

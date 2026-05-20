@@ -5,6 +5,6 @@
 + $\displaystyle \int \frac{x ^2}{a x + b} \ \text{d} x$ == 4
 + $\displaystyle \int \frac{\text{d} x}{x (a x + b)}$ == 5
 + $\displaystyle \int \frac{\text{d} x}{x ^2 (a x + b)}$ == 6
-+ $\displaystyle \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
-+ $\displaystyle \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
++ $\displaystyle \int \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
++ $\displaystyle \int \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
 + $\displaystyle \int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
