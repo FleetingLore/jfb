@@ -1,2 +1,2 @@
-$$$$
+$$\int \frac{\text{d} x}{x (a x + b) ^2} = \frac{1}{b (a x + b)} - \frac{1}{b ^2} \ln \left|\frac{a x + b}{x}\right| + C$$
 ---

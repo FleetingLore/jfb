@@ -1,10 +1,10 @@
 # (一) 含有 $a x + b$ 的积分
-+ $\int \frac{\text{d} x}{a x + b}$ == 1
-+ $\int (a x + b) ^\mu \ \text{d} x$ == 2
-+ $\int \frac{x}{a x + b} \ \text{d} x$ == 3
-+ $\int \frac{x ^2}{a x + b} \ \text{d} x$ == 4
-+ $\int \frac{\text{d} x}{x (a x + b)}$ == 5
-+ $\int \frac{\text{d} x}{x ^2 (a x + b)}$ == 6
-+ $\frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
-+ $\frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
-+ $\int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
++ $\displaystyle \int \frac{\text{d} x}{a x + b}$ == 1
++ $\displaystyle \int (a x + b) ^\mu \ \text{d} x$ == 2
++ $\displaystyle \int \frac{x}{a x + b} \ \text{d} x$ == 3
++ $\displaystyle \int \frac{x ^2}{a x + b} \ \text{d} x$ == 4
++ $\displaystyle \int \frac{\text{d} x}{x (a x + b)}$ == 5
++ $\displaystyle \int \frac{\text{d} x}{x ^2 (a x + b)}$ == 6
++ $\displaystyle \frac{x}{(a x + b) ^2} \ \text{d} x$ == 7
++ $\displaystyle \frac{x ^2}{(a x + b) ^2} \ \text{d} x$ == 8
++ $\displaystyle \int \frac{\text{d} x}{x (a x + b) ^2}$ == 9
